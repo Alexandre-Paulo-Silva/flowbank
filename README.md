@@ -7,7 +7,7 @@
 ##  Demonstração do Sistema
 
 ![Dashboard FlowBank Black](Imagem.png)
-*(Substitua o caminho acima pela imagem ou GIF da tela principal do seu sistema)*
+
 
 ---
 
