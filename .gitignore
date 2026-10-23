@@ -1,0 +1,18 @@
+# Dependências
+node_modules/
+**/node_modules/
+
+# Configurações do Expo / Web / Builds
+.expo/
+**/.expo/
+dist/
+web-build/
+
+# Variáveis de ambiente secretas
+.env
+**/.env
+
+# Logs e arquivos temporários
+*.log
+npm-debug.log*
+yarn-debug.log*
