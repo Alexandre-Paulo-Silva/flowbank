@@ -66,7 +66,11 @@ cd flowbank
 
     Instale as dependências:
     Bash
-
+    backend
+    npm install express mongoose socket.io jsonwebtoken bcrypt cors dotenv
+    npm install --save-dev nodemon
+    frontend
+    npm install axios socket.io-client react-native-qrcode-svg @expo/vector-icons expo-status-bar --legacy-peer-deps
     npm install
 
     Crie um arquivo .env na pasta backend/ com as variáveis de ambiente:
