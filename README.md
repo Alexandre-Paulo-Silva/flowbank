@@ -1,4 +1,4 @@
-# 🏦 FlowBank Black — Banco Digital VIP
+#  FlowBank Black  Banco Digital VIP
 
 > Uma aplicação bancária full-stack de alto nível com design moderno **Black & Gold VIP**
 
