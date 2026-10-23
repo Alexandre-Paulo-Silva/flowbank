@@ -6,7 +6,7 @@
 
 ##  Demonstração do Sistema
 
-![Dashboard FlowBank Black](./frontend/assets/dashboard-preview.png)
+![Dashboard FlowBank Black](Imagem.png)
 *(Substitua o caminho acima pela imagem ou GIF da tela principal do seu sistema)*
 
 ---
