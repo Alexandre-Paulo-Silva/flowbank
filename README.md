@@ -28,7 +28,7 @@
 
 ##  Tecnologias Utilizadas
 
-### **Front-end (Mobile & Web)**
+### **Front-end (Mobile)**
 * **Expo** (SDK 51+) / **React Native**
 * **TypeScript**
 * **Socket.io-client** (Comunicação em tempo real)
