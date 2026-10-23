@@ -57,3 +57,56 @@
 ```bash
 git clone [https://github.com/Alexandre-Paulo-Silva/flowbank.git](https://github.com/Alexandre-Paulo-Silva/flowbank.git)
 cd flowbank
+
+2️⃣ Configurar e Rodar o Back-end
+
+    Navegue até a pasta do servidor:
+    Bash
+
+    cd backend
+
+    Instale as dependências:
+    Bash
+
+    npm install
+
+    Crie um arquivo .env na pasta backend/ com as variáveis de ambiente:
+    Snippet de código
+
+    PORT=3000
+    MONGO_URI=mongodb://localhost:27017/flowbank
+    JWT_SECRET=seu_jwt_secret_aqui
+
+    Inicie o servidor Node.js:
+    Bash
+
+    npm start
+    # ou para modo de desenvolvimento:
+    npm run dev
+
+        🚀 Servidor rodando em: http://localhost:3000
+
+3️⃣ Configurar e Rodar o Front-end (App)
+
+    Em um novo terminal, navegue até a pasta do front-end:
+    Bash
+
+    cd flowbank/frontend
+
+    Instale as dependências:
+    Bash
+
+    npm install --legacy-peer-deps
+
+    Iniciar na Web:
+    Bash
+
+    npx @expo/cli start --web
+
+    Iniciar no Dispositivo Móvel (Android/iOS):
+    Bash
+
+    npx @expo/cli start
+
+        Baixe o aplicativo Expo Go no seu celular e escaneie o código QR exibido no terminal.
+
